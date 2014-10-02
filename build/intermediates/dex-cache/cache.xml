@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/chevalier/AndroidStudioProjects/SmartDring/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-a6c501d3ae54ef61c8a82ea8fe17c4d3d73aca98.jar"
+        jar="/home/chevalier/.android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/home/chevalier/AndroidStudioProjects/SmartDring/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-85bf9629dbedd24b5b77785c3f8ec462faeb96ca.jar"
+        jar="/home/chevalier/AndroidStudioProjects/SmartDring/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/chevalier/AndroidStudioProjects/SmartDring/app/build/intermediates/pre-dexed/debug/classes-a6ad8424a35a42f226d4afb11b17701d832dd643.jar"
+        jar="/home/chevalier/AndroidStudioProjects/SmartDring/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e128103d5281ddd26195a7f980b36d0d005a4e56"/>
+    <item
+        dex="/home/chevalier/AndroidStudioProjects/SmartDring/app/build/intermediates/pre-dexed/debug/classes-fb4765ab8efdfa118e6391716fb02f064a553cd1.jar"
+        jar="/home/chevalier/AndroidStudioProjects/SmartDring/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/home/chevalier/AndroidStudioProjects/SmartDring/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-5fd2744342f6c46d07e0c9a86d887157dd7c3b55.jar"
+        jar="/home/chevalier/AndroidStudioProjects/SmartDring/app/build/intermediates/exploded-aar/com.android.support/support-v13/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="27bbd3982cdfe4468a9bf99c8c773734a9049e33"/>
+
+</pre-dex-items>
